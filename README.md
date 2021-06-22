@@ -1,4 +1,4 @@
-# Subsitution | Frequency Analysis Algorithm
+# Cryptography: Substitution | Frequency Analysis Algorithms
 
 ## About
 This is a cryptography project about the substitution algorithm and the frequency analysis technique utilized to crack its ciphers.
