@@ -1,4 +1,4 @@
-# Sub-Algo-Frq-Analysis
+# Subsitution | Frequency Analysis Algorithm
 
 ## About
 This is a cryptography project about the substitution algorithm and the frequency analysis technique utilized to crack its ciphers.
